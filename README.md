@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaskdev
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python, React, NextJS 
 - 💞️ I’m looking to collaborate on anything
