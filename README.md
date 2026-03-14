@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python, React, NextJS 
-- 💞️ I’m looking to collaborate on anything
+- 👀 I use AI to build stuff I am interested in 
 - 📫 How to reach me shaskdev@gmail.com
 
 <!---
