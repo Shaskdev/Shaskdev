@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andrew
-- 👀 I use AI to build stuff I am interested in 
-- 📫 How to reach me shaskdev@gmail.com
+- 👋 I have no idea what I am doing
+-  shaskdev@gmail.com
 
 <!---
 Shaskdev/Shaskdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
